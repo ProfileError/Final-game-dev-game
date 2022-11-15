@@ -27,4 +27,4 @@ public class PlayerController : MonoBehaviour
             transform.position.y + speed * direction.y / SPEED_UNIT
         );
     }
-}s
+}
