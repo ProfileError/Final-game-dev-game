@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LoseHeart : MonoBehaviour
 {
@@ -28,6 +29,8 @@ public class LoseHeart : MonoBehaviour
                 heart2.SetActive(false);
             } else if (heart1.activeSelf) {
                 heart1.SetActive(false);
+            } else {
+                SceneManager.LoadScene("GameOver");
             }
         }
     }
