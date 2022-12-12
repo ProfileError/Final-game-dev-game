@@ -333,9 +333,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7426778a7a8f7ee4c9b16697cffa943e, type: 3}
-<<<<<<< HEAD
---- !u!4 &988839351 stripped
-=======
 --- !u!1 &208197630
 GameObject:
   m_ObjectHideFlags: 0
@@ -1608,7 +1605,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 150
 --- !u!4 &862503921 stripped
->>>>>>> c5aad1f7f20d4cfab42bb9ddbe26a1d16afaadd2
 Transform:
   m_CorrespondingSourceObject: {fileID: 1996702540622929133, guid: 7426778a7a8f7ee4c9b16697cffa943e, type: 3}
   m_PrefabInstance: {fileID: 988839350}
