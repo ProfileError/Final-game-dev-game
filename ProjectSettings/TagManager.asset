@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - collectible
   - Collectible
+  - Door
   layers:
   - Default
   - TransparentFX
