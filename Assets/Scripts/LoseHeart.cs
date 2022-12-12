@@ -29,9 +29,8 @@ public class LoseHeart : MonoBehaviour
                 heart2.SetActive(false);
             } else if (heart1.activeSelf) {
                 heart1.SetActive(false);
-            } else {
-                SceneManager.LoadScene("GameOver");
-            }
+                SceneManager.LoadScene("LoseScreen");
+            } 
         }
     }
 }
