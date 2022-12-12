@@ -3027,6 +3027,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5977701125777713130, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -274.76886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701125777713130, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 165
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701125987237353, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -351.66888
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701125987237353, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 146.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126380789392, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -200.86884
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126380789392, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 165
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126748296168, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -379.1933
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126748296168, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 146.29999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126900802336, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -324.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977701126900802336, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 146.3
+      objectReference: {fileID: 0}
     - target: {fileID: 5977701127070268929, guid: 22fe252742ddb0e4db0c4f0167a9824d, type: 3}
       propertyPath: m_Name
       value: Canvas
