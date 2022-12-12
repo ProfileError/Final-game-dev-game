@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Collectible : MonoBehaviour
 {
@@ -22,6 +23,9 @@ public class Collectible : MonoBehaviour
             score.text = newScore.ToString();
             // Make the Collectible disappear
             Destroy(gameObject);
+        }
+        if (score.text == "10") {
+            SceneManager.LoadScene("WinScreen");
         }
     }
 }
